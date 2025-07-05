@@ -1,0 +1,16 @@
+<svg width="97.824219" height="97.824219" viewBox="0 0 105.648 102.823" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_341_3540" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image341_354_0" transform="matrix(0.000377,0,0,0.00025,-0.001558,0)"/>
+		</pattern>
+	</defs>
+	<mask id="mask341_353" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="97.824219" height="97.823242">
+		<path d="M83.8 48.91C116.64 86.32 86.32 116.64 48.91 83.8C11.5 116.64 -18.83 86.32 14.01 48.91C-18.83 11.5 11.5 -18.83 48.91 14.01C86.32 -18.83 116.64 11.5 83.8 48.91Z" fill="#231F20" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</mask>
+	<g mask="url(#mask341_353)">
+		<rect x="-5.000000" y="-14.000000" width="120" height="120" fill="#231F20" fill-opacity="1.000000"/>
+	</g>
+</svg>
